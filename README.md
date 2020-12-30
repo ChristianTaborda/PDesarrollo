@@ -1,26 +1,25 @@
-# PDesarrollo
+# XYZ Software
 
-Proyecto en java para la venta de muebles y elementos de oficina, cuenta con sistema de facturacion, 
-inventario, roles y e impresion de facturas. Para mas información de este proyecto revise [Estandares.pdf](https://github.com/esneidermanzano/PDesarrollo/blob/master/Estandares.pdf)
+Project developed in Java to sale office elements, use a facturation system, inventory, roles and invoice printing. For more information visit [Estandares.pdf] (https://github.com/esneidermanzano/PDesarrollo/blob/master/Estandares.pdf).
 
-## Tecnologias que implementa<br/>
+## Technologies<br/>
 
 * Java SE, JDK 8
-* JavaFX esta viene incluida en el JDK 8
+* JavaFX - included in JDK 8
 * Eclipse 2018-2
-* e(fx)clipse 3.4.1 para integrar JavaFX (se descarga en el marketplace de eclipse)
-* Scene Builder 2.0 de oracle
-* Libreria jfoenix-8.0.8 para los efectos
-* Librería postgresql-42.2.5, driver de postgres para java 
+* e(fx)clipse 3.4.1 to integrate JavaFX (download in Eclipse marketplace)
+* Scene Builder 2.0 of oracle
+* jfoenix-8.0.8 library for effects
+* postgresql-42.2.5 library - Driver for Postgres in Java 
 
 
-## Capturas
+## Screenshots
 Login
 <p align="center">
     <img  src="https://github.com/esneidermanzano/PDesarrollo/blob/master/captura-login.png?raw=true">
   </p>
 
-Vista del Gerente con el thema oscuro
+Manager view with dark theme:
   <p align="center">
     <img  src="https://github.com/esneidermanzano/PDesarrollo/blob/master/captura-gerente.png?raw=true">
   </p>
